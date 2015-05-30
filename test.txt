@@ -1,1 +1,3 @@
-Test. To jest plik testowy. 
+Test. To jest plik testowy.
+Hello new user. How it' s going.
+Fine how about you?
